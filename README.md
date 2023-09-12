@@ -20,5 +20,5 @@
 </div>
 
 # <img src="img/project.png" align="top" width="40px"> My project
-<img src="https://raw.githubusercontent.com/HgVN23/HgVN23.github.io/main/assets/media/logo/logo_wiki.png" align="top" width="25px"> [MCBE Command Wiki for Vietnamese](https://github.com/Karis-tlg/Bedrock-Support)<br>
-<img src="https://raw.githubusercontent.com/HgVN23/friendGift/main/assets/media/icon/friend_gift.png" align="top" width="25px"> [Friend's Gifts for Hg](https://github.com/Karis-tlg/mcpackToFolder)
+<img src="https://raw.githubusercontent.com/HgVN23/HgVN23.github.io/main/assets/media/logo/logo_wiki.png" align="top" width="25px"> [Tool Convert Pack From Java To Bedrock](https://github.com/Karis-tlg/Bedrock-Support)<br>
+<img src="https://raw.githubusercontent.com/HgVN23/friendGift/main/assets/media/icon/friend_gift.png" align="top" width="25px"> [Tool Convert mcpackToFolder](https://github.com/Karis-tlg/mcpackToFolder)
