@@ -1,6 +1,6 @@
 <img src="img/hg_pixel.png" align="right" width="400px">
 
-# Hallo there
+## ⭐ Hallo there
 💬 I'm Karis 
 
 🕶️ `He/him`<br>
