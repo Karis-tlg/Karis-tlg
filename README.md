@@ -4,24 +4,26 @@
   <h1>Hi, i'm Karis 🧪</h1>
 </div>
 
-### ⭐ About me
+## ⭐ About me
 
-🕶️ `He/him`<br>
-💙 `Pixel Art` + `Plugin` + `Coding` + `Anime/Manga`
-
+- 🕶️ `He/him`<br>
+- 💙 `Pixel Art` + `Plugin` + `Coding` + `Anime/Manga`
+- 💻Languages I know and will improve<br>
+     <img src="img/python.png" width="30px">
 <div>
-  💻Languages I know and will improve<br>
-  <img src="img/python.png" width="30px">
-</div>
-<br>
+  
+- ⏳Languages I will learn next (perhaps)<br>
+     <img src="img/html.png" width="30px">
+     <img src="img/css.png" width="30px">
+     <img src="img/js.png" width="30px">
+     <img src="img/cpp.png" width="30px">
 <div>
-  ⏳Languages I will learn next (perhaps)<br>
-  <img src="img/html.png" width="30px">
-  <img src="img/css.png" width="30px">
-  <img src="img/js.png" width="30px">
-  <img src="img/cpp.png" width="30px">
 </div>
-
-# <img src="img/project.png" align="top" width="40px"> My project
-<img src="https://raw.githubusercontent.com/HgVN23/HgVN23.github.io/main/assets/media/logo/logo_wiki.png" align="top" width="25px"> [Tool Convert Pack From Java To Bedrock](https://github.com/Karis-tlg/Bedrock-Support)<br>
-<img src="https://raw.githubusercontent.com/HgVN23/friendGift/main/assets/media/icon/friend_gift.png" align="top" width="25px"> [Tool Convert mcpackToFolder](https://github.com/Karis-tlg/mcpackToFolder)
+  
+## ⭐ My projects
+### 📦 [BE-Support](https://github.com/Karis-tlg/Bedrock-Support)
+- **A program for convert 2D and 3D item predicates from Minecraft Java Edition to Minecraft Bedrock Edition**
+- Written in **Shell** and **Python**
+### 🎉 [mcpackToFolder](https://github.com/Karis-tlg/mcpackToFolder)
+- **A program for convert .mcpack and .zip files to folders**
+- Written in **Python** and **Batchfile**
