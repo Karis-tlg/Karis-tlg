@@ -1,4 +1,4 @@
-<img src="img/hg_pixel.png" align="right" width="400px">
+<img src="img/hg_pixel.png" align="right" width="350px">
 
 <div align="center">
   <h1>Hi, i'm Karis 🧪</h1>
