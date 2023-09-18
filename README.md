@@ -3,7 +3,7 @@
 <div align="center">
   <h1>Hi, i'm Karis 🧪</h1>
 </div>
-💬 I'm Karis 
+## ⭐ About me
 
 🕶️ `He/him`<br>
 💙 `Pixel Art` + `Plugin` + `Coding` + `Anime/Manga`
