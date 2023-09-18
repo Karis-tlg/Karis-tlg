@@ -1,6 +1,8 @@
 <img src="img/hg_pixel.png" align="right" width="400px">
 
-## ⭐ Hallo there
+<div align="center">
+  <h1>Hi, i'm Karis 🧪</h1>
+</div>
 💬 I'm Karis 
 
 🕶️ `He/him`<br>
