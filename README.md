@@ -2,6 +2,19 @@
 
 <div align="center">
   <h1>Hi, i'm Karis 🧪</h1>
+    <a href="https://discordapp.com/users/1152965480223604767">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/michal-spi%C5%A1ak-876361211/">
+    <img src="https://img.shields.io/badge/Facebook-0072b1?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://www.twitter.com/speedy11cz/">
+    <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.instagram.com/jsem_mike/">
+    <img src="https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
 </div>
 
 ## ⭐ About me
