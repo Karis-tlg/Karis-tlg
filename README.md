@@ -5,7 +5,7 @@
     <a href="https://discordapp.com/users/1152965480223604767">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=61550894786481">
+  <a href="https://www.facebook.com/Karis.Orii/">
     <img src="https://img.shields.io/badge/Facebook-0072b1?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://www.twitter.com/">
