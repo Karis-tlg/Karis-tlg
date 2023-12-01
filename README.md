@@ -37,6 +37,6 @@
 ### 📦 [BE-Support](https://github.com/Karis-tlg/Bedrock-Support)
 - **A program for convert 2D and 3D item predicates from Minecraft Java Edition to Minecraft Bedrock Edition**
 - Written in **Shell** and **Python**
-### 🎉 [mcpackToFolder](https://github.com/Karis-tlg/mcpackToFolder)
+### 🎉 [McpackToFolder](https://github.com/Karis-tlg/mcpackToFolder)
 - **A program for convert .mcpack and .zip files to folders**
 - Written in **Python** and **Batchfile**
