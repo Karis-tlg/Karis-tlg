@@ -23,13 +23,13 @@
 - 💙 `Pixel Art` + `Plugin` + `Coding` + `Anime/Manga`
 - 💻Languages I know and will improve<br>
      <img src="img/python.png" width="30px">
+     <img src="img/cpp.png" width="30px">
 <div>
   
 - ⏳Languages I will learn next (perhaps)<br>
      <img src="img/html.png" width="30px">
      <img src="img/css.png" width="30px">
      <img src="img/js.png" width="30px">
-     <img src="img/cpp.png" width="30px">
 <div>
 </div>
   
